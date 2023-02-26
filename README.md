@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamohmx
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning IT(Information Technology)
+- 🌱 I’m currently learning IT(Information of Technology at Mahasarakham University)
 - 📫 How to reach me Facebook
 
 <!---
