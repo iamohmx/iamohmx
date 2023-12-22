@@ -4,7 +4,7 @@
 I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make me better**
 
 ---
-# :sparkles::sparkles: My Skill :sparkles::sparkles:
+# :sparkles::sparkles: My Skills :sparkles::sparkles:
 ## Text Editor
 <div>
   <img alt="Php" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg"/>
@@ -26,7 +26,7 @@ I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make
   <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/boostrap.svg"/>
   <img alt="Laravel" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/laravel.svg"/>
   <img alt="Nodejs" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg"/>
-  <img height="50"  alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg">
+<!--   <img height="50"  alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg"> -->
 </div>
 
 ## SQL (Structured Query Language)
