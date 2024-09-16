@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Let me introduce myself.
 ### Pachara Detkhon (Ohm)
-I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make me better**
+<!-- I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make me better** -->
 
 ---
 # :sparkles::sparkles: My Skills :sparkles::sparkles:
