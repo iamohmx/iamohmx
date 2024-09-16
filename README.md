@@ -24,8 +24,8 @@ I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make
 ## Frameworks
 <div>
   <img alt="Bootstrap" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/boostrap.svg"/>
-  <img alt="Laravel" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/laravel.svg"/>
-  <img alt="Nodejs" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg"/>
+<!--   <img alt="Laravel" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/laravel.svg"/>
+  <img alt="Nodejs" width="50px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/frameworks/nodejs.svg"/> -->
 <!--   <img height="50"  alt="Fiber" src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg"> -->
 </div>
 
