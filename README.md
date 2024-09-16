@@ -31,7 +31,7 @@ I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make
 
 ## SQL (Structured Query Language)
 <div>
-  <img alt="PostgresSQL" width="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/>
+<!--   <img alt="PostgresSQL" width="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"/> -->
   <img alt="MySQL" width="50"  src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 </div>
 
