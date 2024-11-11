@@ -3,7 +3,7 @@
 ### Pachara Detkhon (Ohm)
 
 ### Support me
-[Buy me coffee ☕](buymeacoffee.com/iamohmx)
+[Buy me coffee ☕](https://buymeacoffee.com/iamohmx)
 <!--- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="iamohmx" data-color="#FFDD00" data-emoji="🐱"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script> -->
 <!-- I am Backend developer. Start my skill is PHP,HTML,CSS and MySQL **Practice make me better** -->
 
