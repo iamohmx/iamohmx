@@ -16,7 +16,6 @@
 [![runner_background](https://img.shields.io/badge/runner_background-library-blueviolet?style=for-the-badge)](https://github.com/iamohmx/runner_background)  
 **A lightweight library for seamless background task management.**
 
----
 <!--
 ## 📫 Connect
 [Website](#) | [LinkedIn](#) | [Email](#)
