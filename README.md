@@ -5,7 +5,10 @@
 -->
 # 👋 Hi, I'm iamohmx!
 
-🚀 Developer | 💻 Java, Dart, Flutter, SpringBoot, ReactJS, TypeScript, SQL.
+🚀 Developer | 
+Golang, MySQL
+
+([Old Stack]💻 Java, Dart, Flutter, SpringBoot, ReactJS, TypeScript, SQL.)
 
 ✨ Passionate about web app & applications.
 
