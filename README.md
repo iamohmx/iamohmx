@@ -6,7 +6,7 @@
 # 👋 Hi, I'm iamohmx!
 
 🚀 Developer | 
-Golang, MySQL, MariaDB, MongoDB, Fiber Framework.  
+Golang, MySQL, MariaDB, MongoDB, Go Fiber Framework.  
 
 ([Old Stack]💻 Java, Dart, Flutter, SpringBoot, ReactJS, TypeScript, SQL.)
 
