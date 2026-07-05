@@ -3,7 +3,7 @@
 ### Pachara Detkhon (Ohm)
 
 -->
-# 👋 Hi, I'm iamohmx!
+# 👋 Hi, I'm OhmKubb!
 
 🚀 Developer | 
 Golang, MySQL, MariaDB, MongoDB, Go Fiber Framework.  
