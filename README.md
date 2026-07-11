@@ -5,7 +5,7 @@
 -->
 # 👋 Hi, I'm OhmKubb!
 
-# I'm a Jonior Software Engineer 
+# I'm a Junior Software Engineer 
 
 🚀 Developer | 
 Golang, MySQL, MariaDB, MongoDB, Go Fiber Framework.  
