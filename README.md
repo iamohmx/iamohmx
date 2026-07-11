@@ -5,6 +5,8 @@
 -->
 # 👋 Hi, I'm OhmKubb!
 
+# I'm a Jonior Software Engineer 
+
 🚀 Developer | 
 Golang, MySQL, MariaDB, MongoDB, Go Fiber Framework.  
 
